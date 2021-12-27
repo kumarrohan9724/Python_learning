@@ -1,7 +1,6 @@
 print("this is file one")
 print("hiiiii")
-print("hellooo")
-# This program adds two numbers
+print("hellosso numbers")
 
 num1 = 1.545
 num2 = 6.323
